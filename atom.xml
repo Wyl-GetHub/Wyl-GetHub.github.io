@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-27T07:20:19.912Z</updated>
+  <updated>2018-03-04T15:46:22.910Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,47 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2-27</title>
-    <link href="http://yoursite.com/2018/02/27/2-27-1/"/>
-    <id>http://yoursite.com/2018/02/27/2-27-1/</id>
-    <published>2018-02-27T07:20:19.000Z</published>
-    <updated>2018-02-27T07:20:19.912Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2-27</title>
-    <link href="http://yoursite.com/2018/02/27/2-27/"/>
-    <id>http://yoursite.com/2018/02/27/2-27/</id>
-    <published>2018-02-27T07:19:58.000Z</published>
-    <updated>2018-02-27T07:19:58.720Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>myfirsthexo</title>
-    <link href="http://yoursite.com/2018/02/14/myfirsthexo/"/>
-    <id>http://yoursite.com/2018/02/14/myfirsthexo/</id>
+    <title>简介</title>
+    <link href="http://yoursite.com/2018/02/14/%E7%AE%80%E4%BB%8B/"/>
+    <id>http://yoursite.com/2018/02/14/简介/</id>
     <published>2018-02-14T14:19:59.000Z</published>
-    <updated>2018-02-26T12:46:14.868Z</updated>
+    <updated>2018-03-04T15:46:22.910Z</updated>
     
-    <content type="html"><![CDATA[<p>????????????????????</p>]]></content>
+    <content type="html"><![CDATA[<p>###本博客只是为了记录自己接触的东西，方便以后查看。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;????????????????????&lt;/p&gt;
+        &lt;p&gt;###本博客只是为了记录自己接触的东西，方便以后查看。&lt;/p&gt;
 
       
     
