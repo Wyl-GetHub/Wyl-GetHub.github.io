@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-03-04T15:46:22.910Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="/"/>
+  <updated>2018-08-03T08:59:04.663Z</updated>
+  <id>/</id>
   
   <author>
     <name>武永禄</name>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>在线测网速工具</title>
+    <link href="/2018/08/03/%E6%B5%8B%E7%BD%91%E9%80%9F/"/>
+    <id>/2018/08/03/测网速/</id>
+    <published>2018-08-02T16:00:00.000Z</published>
+    <updated>2018-08-03T08:59:04.663Z</updated>
+    
+    <content type="html"><![CDATA[<p><table id="Bq"><tr><td id="stWrap"></td></tr></table><script src="//www.speedtest.cn/assets/js/api/speedtest.bg_dark.min.js"></script></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;table id=&quot;Bq&quot;&gt;&lt;tr&gt;&lt;td id=&quot;stWrap&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;script src=&quot;//www.speedtest.cn/assets/js/api/speedtest.bg_dark.min.js&quot;&gt;&lt;/script&gt;&lt;/p
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>简介</title>
-    <link href="http://yoursite.com/2018/02/14/%E7%AE%80%E4%BB%8B/"/>
-    <id>http://yoursite.com/2018/02/14/简介/</id>
+    <link href="/2018/02/14/%E7%AE%80%E4%BB%8B/"/>
+    <id>/2018/02/14/简介/</id>
     <published>2018-02-14T14:19:59.000Z</published>
-    <updated>2018-03-04T15:46:22.910Z</updated>
+    <updated>2018-08-03T08:57:13.239Z</updated>
     
     <content type="html"><![CDATA[<p>###本博客只是为了记录自己接触的东西，方便以后查看。</p>]]></content>
     
